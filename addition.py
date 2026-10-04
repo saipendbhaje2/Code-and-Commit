@@ -4,6 +4,7 @@ c = a + b
 print(c)
 
 d= a-b
-print(d)+
+print(d)
 f = a*b
 print(f)
+print("Hello")
